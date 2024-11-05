@@ -1,6 +1,6 @@
 require("./all/module")
 
-global.owner = "263785028126" //PAKE NO LU BIAR BISA ADD AKSES
+global.owner = "254796519826" //PAKE NO LU BIAR BISA ADD AKSES
 global.namabot = "ткм ѕℓαуєя" //NAMA BOT GANTI
 global.namaCreator = "ℓσя∂ ткм" //NAMA CREATOR GANTI AJA
 global.autoJoin = false //NOT CHANGE / JANGAN GANTI
